@@ -1,0 +1,34 @@
+[
+    {
+        "unitName": "OPENING A NEW  BANK ACCOUNT",
+        "vocabularies": [
+            {
+                "name": "a bank account",
+                "meaning": "is a financial account maintained by a bank or other financial institution in \rwhich financial transactions between the bank and a customer are recorded."
+            },
+            {
+                "name": "balance",
+                "meaning": "the amount of money you have in a bank account."
+            },
+            {
+                "name": "bank customer services assistant",
+                "meaning": "a person employed in a bank to serve customers"
+            },
+            {
+                "name": "brochure",
+                "meaning": "a type of small magazine that contains pictures and information on a product."
+            },
+            {
+                "name": "checking account",
+                "meaning": "a bank account that you can take  money from at any time."
+            }
+        ],
+        "languageExpressions": [],
+        "exercises": {
+            "reading": [],
+            "writing": [],
+            "listening": [],
+            "speaking": []
+        }
+    }
+]
